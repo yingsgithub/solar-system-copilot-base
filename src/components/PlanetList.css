@@ -1,0 +1,21 @@
+.planetListContainer {
+    /* position: relative; */
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    margin-bottom: 20px;
+    
+}
+
+.filter {
+    width: 30vw;
+    position: fixed;
+    background-color:white;
+    border-radius: 8%;
+
+}
+
+.planetListContainer .pl{
+    padding-top: 10vw;
+
+}

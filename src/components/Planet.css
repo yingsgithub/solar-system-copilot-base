@@ -1,0 +1,16 @@
+/* Planet.css */
+.planet-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.planet-image img {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.planet-info {
+  text-align: center;
+}
